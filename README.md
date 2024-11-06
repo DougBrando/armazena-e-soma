@@ -19,10 +19,10 @@ Este programa permite que o usuário insira números inteiros e calcula a soma t
 
 ## Exemplo de Uso
 ```
-- Digite um número (ou 999 para encerrar): 10
-- Digite um número (ou 999 para encerrar): 20
-- Digite um número (ou 999 para encerrar): 30
-- Digite um número (ou 999 para encerrar): 999
-- Você digitou 3 número(s) e sua soma é de 60
+ Digite um número (ou 999 para encerrar): 10
+ Digite um número (ou 999 para encerrar): 20
+ Digite um número (ou 999 para encerrar): 30
+ Digite um número (ou 999 para encerrar): 999
+ Você digitou 3 número(s) e sua soma é de 60
 ```
 
